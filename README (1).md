@@ -1,4 +1,4 @@
-   # Human Capture — Flask Dashboard
+# Human Capture — Flask Dashboard
 
 Real-time face recognition door monitoring system with web dashboard.
 
