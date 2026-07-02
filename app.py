@@ -1,5 +1,5 @@
 """
-Human Capture — Flask Dashboard
+ Human Capture — Flask Dashboard
 Notifications : ntfy.sh
 DB            : SQLite
 Run           : python app.py
