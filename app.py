@@ -5,7 +5,7 @@ DB            : SQLite
 Run           : python app.py
 Open          : http://localhost:5000
 """
-
+ 
 import os, time, threading, sqlite3, json, sys
 if sys.platform.startswith("win"):
     import io
