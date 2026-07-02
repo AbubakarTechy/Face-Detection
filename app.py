@@ -1,4 +1,4 @@
-   """
+    """
  Human Capture — Flask Dashboard
 Notifications : ntfy.sh
 DB            : SQLite
